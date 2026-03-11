@@ -1,1 +1,2 @@
-# trivia1
+# trivia
+# juego de tronos
